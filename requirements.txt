@@ -7,3 +7,4 @@ lightFM==1.16
 scikit-surprise==1.1.1
 ml_metrics==0.1.4
 psutil==5.8.0
+optuna==2.10.0
